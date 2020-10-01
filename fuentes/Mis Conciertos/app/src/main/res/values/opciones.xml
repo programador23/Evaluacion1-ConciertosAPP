@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="selector_genero_musical">
+        <item>Rock</item>
+        <item>Jazz</item>
+        <item>Pop</item>
+        <item>Reguetoon</item>
+        <item>Salsa</item>
+        <item>Metal</item>
+
+    </string-array>
+    
+</resources>
